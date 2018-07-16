@@ -4,7 +4,7 @@
 
 You'll need [Vagrant](https://www.vagrantup.com/) and [Ansible](https://docs.ansible.com/ansible/intro_installation.html) for this exercise.
 
-*please install vagrant host manager to check your work* `vagrant plugin install vagrant-hostmanager`
+*please install [vagrant host manager](https://github.com/devopsgroup-io/vagrant-hostmanager) to check your work* `vagrant plugin install vagrant-hostmanager`
 
 ### The task(s)
 
@@ -17,7 +17,7 @@ The application has a few requirements
 * elasticsearch installed and running
 * composer packages installed and running
 
-The server should be available via challenge.local on your machine in order to test
+The server should be available via [challenge.local:8080](http://challenge.local:8080) on your machine in order to test
 
 
 ### Tips & Guidance:
